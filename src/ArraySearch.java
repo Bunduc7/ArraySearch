@@ -1,3 +1,5 @@
+// GitHub Repository: https://github.com/Bunduc7/ArraySearch.git
+
 import java.util.HashSet;
 import java.util.Scanner;
 
